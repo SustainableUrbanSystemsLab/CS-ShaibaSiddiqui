@@ -1,7 +1,3 @@
-# MSUD_Independent_Study_2025
-Heat Equity Design Toolkit
-**Independent Study – M.S. Urban Design**  
-**Author:** Shaiba Bano Siddiqui - LinkedIn https://www.linkedin.com/in/shaiba-siddiqui-2112a4101/ 
 # Heat Equity Design Toolkit  
 ### Street-Tree Canopy Configuration for Pedestrian Thermal Comfort in Atlanta  
 **Independent Study - MS Urban Design (Fall 2025), Georgia Institute of Technology**  
@@ -10,7 +6,7 @@ Heat Equity Design Toolkit
 **Secondary Advisor:** Rounaq Basu  
 
 ---
-![INDEPENDENT STUDY - MIDTERM](https://github.com/user-attachments/assets/a298d701-919c-4715-bf2f-bce1acba34d9)
+<img width="1013" height="459" alt="image" src="./GraphicalAbstract.png" />
 
 ## Overview
 Urban heat exposure disproportionately impacts low-income and transit-dependent neighborhoods, where limited tree canopy, wide asphalt corridors, and fragmented shade create unsafe pedestrian conditions. While trees are widely recognized as a cooling strategy, *how trees are spatially configured* along streets (spacing, side placement, clustering) strongly influences pedestrian-scale thermal comfort.
