@@ -6,7 +6,7 @@
 **Secondary Advisor:** Rounaq Basu  
 
 ---
-<img width="1013" height="459" alt="image" src="./GraphicalAbstract.jpg" />
+<img width="1013" alt="image" src="./GraphicalAbstract.jpg" />
 
 ## Overview
 Urban heat exposure disproportionately impacts low-income and transit-dependent neighborhoods, where limited tree canopy, wide asphalt corridors, and fragmented shade create unsafe pedestrian conditions. While trees are widely recognized as a cooling strategy, *how trees are spatially configured* along streets (spacing, side placement, clustering) strongly influences pedestrian-scale thermal comfort.
