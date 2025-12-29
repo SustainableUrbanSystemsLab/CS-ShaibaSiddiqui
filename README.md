@@ -6,7 +6,7 @@
 **Secondary Advisor:** Rounaq Basu  
 
 ---
-<img width="1013" alt="image" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/GraphicalAbstract.png" />
+<img alt="Graphical abstract" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-ShaibaSiddiqui/main/GraphicalAbstract.jpg" style="width:100%; height:auto; display:block;" />
 
 ## Overview
 Urban heat exposure disproportionately impacts low-income and transit-dependent neighborhoods, where limited tree canopy, wide asphalt corridors, and fragmented shade create unsafe pedestrian conditions. While trees are widely recognized as a cooling strategy, *how trees are spatially configured* along streets (spacing, side placement, clustering) strongly influences pedestrian-scale thermal comfort.
@@ -43,7 +43,7 @@ This study investigates how street-tree canopy configuration can reduce **Mean R
 - Zonal statistics (heat + canopy by census tract)  
 - Joined socioeconomic data to environmental layers  
 - Composite overlays to identify **low-canopy + high-heat + low-income** priority zones  
-![INDEPENDENT STUDY - MIDTERM2](https://github.com/user-attachments/assets/460ecaca-9105-4622-83cf-7c68d4509ac4)
+<img alt="Independent study midterm 2" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-ShaibaSiddiqui/main/midterm2.png" style="width:100%; height:auto; display:block;" />
 
 ### 2) Corridor & Block Selection
 Joseph E. Boone Blvd was selected due to:
@@ -63,8 +63,8 @@ Joseph E. Boone Blvd was selected due to:
 - **Days 172–174 (June 21–23)**
 
 ---
-![INDEPENDENT STUDY - MIDTERM4](https://github.com/user-attachments/assets/a67530d6-99bd-4a16-9a35-9da6e9ea5c5a)
-![INDEPENDENT STUDY - MIDTERM5](https://github.com/user-attachments/assets/b3ffd72d-b2db-49d2-ba98-93bddcf31ecb)
+<img alt="Independent study midterm 4" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-ShaibaSiddiqui/main/midterm4.png" style="width:100%; height:auto; display:block;" />
+<img alt="Independent study midterm 5" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-ShaibaSiddiqui/main/midterm5.png" style="width:100%; height:auto; display:block;" />
 
 ## Tree Configuration Scenarios Tested
 1. **Existing Conditions**  
